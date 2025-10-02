@@ -14,17 +14,6 @@ This is a personal portfolio website built with HTML5 and CSS3 for the INFR3120 
 - Form validation
 - Accessible design
 
-## Viewport Dimensions Used
-
-### Mobile: < 768px
-- **Reason:** Covers most smartphones in portrait mode. This breakpoint ensures optimal readability and touch interaction on small screens.
-
-### Tablet: 768px - 1024px  
-- **Reason:** Targets tablets in both portrait and landscape orientations, as well as smaller laptops. This range accommodates the most common tablet screen sizes.
-
-### Laptop: > 1024px
-- **Reason:** Designed for standard laptops and desktop monitors. This breakpoint utilizes the additional screen space for enhanced layouts and typography.
-
 ## Gradients Implementation
 
 ### Linear Gradient
