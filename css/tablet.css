@@ -25,6 +25,8 @@ nav a:hover {
     color: #feb2b2; /* ADDED hero subtitle color */
 }
 
+
+
 .hero p {
     color: #d4d4d4; /* ADDED hero text color */
     background-color: #2d2d2d;
@@ -45,6 +47,14 @@ nav a:hover {
     color: #d4d4d4; /* ADDED feature text color */
 }
 
+.about-content h2 {
+    color: #e53e3e; /* ADDED feature title color */
+}
+
+.intro-text h3 {
+    color: #e53e3e; /* ADDED feature text color */
+}
+
 /* About Page Colors */
 .intro-text h1 {
     color: #e53e3e; /* ADDED about title color */
@@ -54,10 +64,14 @@ nav a:hover {
     color: #d4d4d4; /* ADDED about text color */
 }
 
-.video-section h2 {
+.video-section h3 {
     color: #e53e3e; /* ADDED video title color */
 }
 
+
+.intro-text p {
+    color: #feb2b2; 
+}
 /* Projects Page Colors */
 .projects-container h1 {
     color: #e53e3e; /* ADDED projects title color */
