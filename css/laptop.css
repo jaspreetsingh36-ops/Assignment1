@@ -1,0 +1,114 @@
+/* Laptop Styles - DARK SLATE TEAL THEME */
+body {
+    background-color: #1e2a3a;
+    color: #edf2f7; /* ADDED body text color */
+}
+
+header {
+    background: linear-gradient(135deg, #1a202c, #2d3748);
+}
+
+nav a {
+    color: #edf2f7; /* ADDED nav link color */
+}
+
+nav a:hover {
+    background-color: #38b2ac;
+    color: #1e2a3a; /* ADDED nav hover color */
+}
+
+.hero h1 {
+    color: #38b2ac; /* ADDED hero title color */
+}
+
+.hero h2 {
+    color: #81e6d9; /* ADDED hero subtitle color */
+}
+
+.hero p {
+    color: #e2e8f0; /* ADDED hero text color */
+    background-color: #2d3748;
+    padding: 1.5rem;
+    border-radius: 10px;
+}
+
+.feature-card {
+    background-color: #2d3748;
+    border-top: 4px solid #38b2ac;
+}
+
+.feature-card h3 {
+    color: #38b2ac; /* ADDED feature title color */
+}
+
+.feature-card p {
+    color: #e2e8f0; /* ADDED feature text color */
+}
+
+/* About Page Colors */
+.intro-text h1 {
+    color: #38b2ac; /* ADDED about title color */
+}
+
+.intro-text p {
+    color: #e2e8f0; /* ADDED about text color */
+}
+
+.video-section h2 {
+    color: #38b2ac; /* ADDED video title color */
+}
+
+/* Projects Page Colors */
+.projects-container h1 {
+    color: #38b2ac; /* ADDED projects title color */
+}
+
+.project-card h2 {
+    color: #38b2ac; /* ADDED project title color */
+}
+
+.project-meta {
+    color: #a0aec0; /* ADDED project meta color */
+}
+
+.project-card p {
+    color: #e2e8f0; /* ADDED project text color */
+}
+
+/* Contact Page Colors */
+.contact-container h1 {
+    color: #38b2ac; /* ADDED contact title color */
+}
+
+.contact-form label {
+    color: #e2e8f0; /* ADDED form label color */
+}
+
+.contact-form input,
+.contact-form textarea {
+    color: #edf2f7; /* ADDED form input color */
+}
+
+footer {
+    background-color: #1a202c;
+    color: #a0aec0; /* ADDED footer text color */
+}
+
+/* Laptop Layout */
+.hero {
+    padding: 6rem 0;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+}
+
+.home-features {
+    gap: 2rem;
+}
+
+.feature-card {
+    flex: 1;
+    min-width: 250px;
+    padding: 2.5rem;
+}
