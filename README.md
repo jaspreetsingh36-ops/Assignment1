@@ -99,7 +99,7 @@ text
 - **Secondary Text**: `#cccccc` (Light gray)
 - **Meta Text**: `#aaaaaa` (Gray)
 
-### Mobile Color Scheme (< 768px) - Deep Navy Blue Theme
+### Mobile Color Scheme (480px) - Deep Navy Blue Theme
 - **Body Background**: `#0a1929` (Deep navy blue)
 - **Header Gradient**: `linear-gradient(135deg, #0c1a2b, #1e3a5c)`
 - **Card Background**: `#102a43` (Dark navy blue)
@@ -111,7 +111,7 @@ text
 - **Secondary Text**: `#cbd5e0` (Blue-gray)
 - **Meta Text**: `#a0aec0` (Gray-blue)
 
-### Tablet Color Scheme (768px-1024px) - Charcoal Red Theme
+### Tablet Color Scheme (600px-1024px) - Charcoal Red Theme
 - **Body Background**: `#1a1a1a` (Charcoal black)
 - **Header Gradient**: `linear-gradient(135deg, #0f0f0f, #2d2d2d)`
 - **Card Background**: `#2d2d2d` (Medium charcoal)
