@@ -1,0 +1,113 @@
+/* Tablet Styles - CHARCOAL RED THEME */
+body {
+    background-color: #1a1a1a;
+    color: #e5e5e5; /* ADDED body text color */
+}
+
+header {
+    background: linear-gradient(135deg, #0f0f0f, #2d2d2d);
+}
+
+nav a {
+    color: #e5e5e5; /* ADDED nav link color */
+}
+
+nav a:hover {
+    background-color: #e53e3e;
+    color: #1a1a1a; /* ADDED nav hover color */
+}
+
+.hero h1 {
+    color: #e53e3e; /* ADDED hero title color */
+}
+
+.hero h2 {
+    color: #feb2b2; /* ADDED hero subtitle color */
+}
+
+.hero p {
+    color: #d4d4d4; /* ADDED hero text color */
+    background-color: #2d2d2d;
+    padding: 1.5rem;
+    border-radius: 10px;
+}
+
+.feature-card {
+    background-color: #2d2d2d;
+    border-top: 4px solid #e53e3e;
+}
+
+.feature-card h3 {
+    color: #e53e3e; /* ADDED feature title color */
+}
+
+.feature-card p {
+    color: #d4d4d4; /* ADDED feature text color */
+}
+
+/* About Page Colors */
+.intro-text h1 {
+    color: #e53e3e; /* ADDED about title color */
+}
+
+.intro-text p {
+    color: #d4d4d4; /* ADDED about text color */
+}
+
+.video-section h2 {
+    color: #e53e3e; /* ADDED video title color */
+}
+
+/* Projects Page Colors */
+.projects-container h1 {
+    color: #e53e3e; /* ADDED projects title color */
+}
+
+.project-card h2 {
+    color: #e53e3e; /* ADDED project title color */
+}
+
+.project-meta {
+    color: #a3a3a3; /* ADDED project meta color */
+}
+
+.project-card p {
+    color: #d4d4d4; /* ADDED project text color */
+}
+
+/* Contact Page Colors */
+.contact-container h1 {
+    color: #e53e3e; /* ADDED contact title color */
+}
+
+.contact-form label {
+    color: #d4d4d4; /* ADDED form label color */
+}
+
+.contact-form input,
+.contact-form textarea {
+    color: #e5e5e5; /* ADDED form input color */
+}
+
+footer {
+    background-color: #0f0f0f;
+    color: #a3a3a3; /* ADDED footer text color */
+}
+
+/* Tablet Layout */
+main {
+    padding: 1.5rem;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+}
+
+.home-features {
+    gap: 1.5rem;
+}
+
+.feature-card {
+    flex: 1;
+    min-width: 200px;
+}
