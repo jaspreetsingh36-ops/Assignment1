@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaspreet Singh - Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/mobile.css" media="only screen and (max-width: 480px)">
+    <link rel="stylesheet" href="css/tablet.css" media="only screen and (min-width: 600px) and (max-width: 1024px)">
+    <link rel="stylesheet" href="css/laptop.css" media="only screen and (min-width: 1025px)">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact Me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article class="contact-container">
+            <h1>Contact Me</h1>
+            <form class="contact-form" action="#" method="post">
+                <table>
+                    <tr>
+                        <td><label for="name">Name:</label></td>
+                        <td><input type="text" id="name" name="name" required></td>
+                    </tr>
+                    <tr>
+                        <td><label for="email">Email:</label></td>
+                        <td><input type="email" id="email" name="email" required></td>
+                    </tr>
+                    <tr>
+                        <td><label for="phone">Cell No.:</label></td>
+                        <td><input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="123-456-7890" required></td>
+                    </tr>
+                    <tr>
+                        <td><label for="comments">Comments:</label></td>
+                        <td><textarea id="comments" name="comments" rows="4" required></textarea></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <button type="submit" class="submit-btn">Submit</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </article>
+    </main>
+
+     <footer>
+        <p>Contact: csinghjaspreet@gmail.com</p>
+        <p>&copy; 2025 Jaspreet Singh. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
