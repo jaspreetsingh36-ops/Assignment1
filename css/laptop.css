@@ -45,18 +45,23 @@ nav a:hover {
     color: #e2e8f0; /* ADDED feature text color */
 }
 
-/* About Page Colors */
 .intro-text h1 {
     color: #38b2ac; /* ADDED about title color */
 }
 
 .intro-text p {
-    color: #e2e8f0; /* ADDED about text color */
+    color: #38b2ac; /* ADDED about text color */
 }
 
-.video-section h2 {
+.video-section h3 {
     color: #38b2ac; /* ADDED video title color */
 }
+
+
+.intro-text p {
+    color: #38b2ac; /* ADDED intro text color */
+}
+
 
 /* Projects Page Colors */
 .projects-container h1 {
@@ -66,6 +71,8 @@ nav a:hover {
 .project-card h2 {
     color: #38b2ac; /* ADDED project title color */
 }
+
+
 
 .project-meta {
     color: #a0aec0; /* ADDED project meta color */

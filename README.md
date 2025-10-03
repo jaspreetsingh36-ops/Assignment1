@@ -30,11 +30,10 @@ This is a personal portfolio website built with HTML5 and CSS3 for the INFR3120 
 
 The color scheme was created using Adobe Color and follows a professional dark theme:
 
-- **Primary Background:** `#121212` (Near black)
-- **Secondary Background:** `#1e1e1e` (Dark gray)
-- **Primary Text:** `#f0f0f0` (Off-white)
-- **Secondary Text:** `#aaaaaa` (Light gray)
-- **Accent Color:** `#4a90e2` (Professional blue)
+Mobile: Deep Navy Blue Theme (#0a1929)
+Tablet: Charcoal Red Theme (#1a1a1a)
+Laptop: Dark Slate Teal Theme (#1e2a3a)
+Base: Universal Dark Theme (#121212)
 
 This scheme ensures high contrast for accessibility while maintaining a modern, professional appearance suitable for a cybersecurity student portfolio.
 
